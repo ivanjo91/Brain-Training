@@ -1,0 +1,9 @@
+c:\users\david\documents\visual studio 2015\Projects\JuegoCalculoNumerico\JuegoCalculoNumerico\bin\Debug\JuegoCalculoNumerico.exe.config
+c:\users\david\documents\visual studio 2015\Projects\JuegoCalculoNumerico\JuegoCalculoNumerico\bin\Debug\JuegoCalculoNumerico.exe
+c:\users\david\documents\visual studio 2015\Projects\JuegoCalculoNumerico\JuegoCalculoNumerico\bin\Debug\JuegoCalculoNumerico.pdb
+c:\users\david\documents\visual studio 2015\Projects\JuegoCalculoNumerico\JuegoCalculoNumerico\obj\Debug\JuegoCalculoNumerico.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\JuegoCalculoNumerico\JuegoCalculoNumerico\obj\Debug\JuegoCalculoNumerico.Form1.resources
+c:\users\david\documents\visual studio 2015\Projects\JuegoCalculoNumerico\JuegoCalculoNumerico\obj\Debug\JuegoCalculoNumerico.Properties.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\JuegoCalculoNumerico\JuegoCalculoNumerico\obj\Debug\JuegoCalculoNumerico.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\JuegoCalculoNumerico\JuegoCalculoNumerico\obj\Debug\JuegoCalculoNumerico.exe
+c:\users\david\documents\visual studio 2015\Projects\JuegoCalculoNumerico\JuegoCalculoNumerico\obj\Debug\JuegoCalculoNumerico.pdb
